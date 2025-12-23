@@ -1,0 +1,24 @@
+ body {
+          background-color: rgb(25, 25, 25);
+          color: white;
+        }
+
+        .title{
+          font-size: 30px;
+          font-weight: bold;
+          color : white;
+        }
+
+        .Move-icon{
+          height: 50px;
+        }
+
+        .move-button{
+          background-color: transparent;
+          border: 3px solid white;
+          width : 120px;
+          height: 120px;
+          margin-right: 10px;
+          border-radius: 60px;
+
+        }
